@@ -4,7 +4,7 @@ Implementation of the Transformer model from the paper [Attention is all you nee
 
 ### Model Architecture
 
-![The full transformer architecture ](transformer.png)
+![The full transformer architecture ](fig/transformer.png)
 
 #### Encoder and Decoder Stacks:
 Encoder: 
